@@ -1,0 +1,22 @@
+{
+  "name": "Appstrap Interactor Portal",
+  "version": "1.0",
+  "description": "Load appstrap interactor in a popover so you dont have to navigate away from your app!",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/appstrap-logo-16.png",
+      "32": "images/appstrap-logo-32.png",
+      "48": "images/appstrap-logo-48.png",
+      "128": "images/appstrap-logo-128.png"
+    }
+  },
+  "permissions": ["tabs"],
+  "icons": {
+    "16": "images/appstrap-logo-16.png",
+    "32": "images/appstrap-logo-32.png",
+    "48": "images/appstrap-logo-48.png",
+    "128": "images/appstrap-logo-128.png"
+  },
+  "manifest_version": 2
+}
